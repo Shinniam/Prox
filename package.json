@@ -1,5 +1,13 @@
-"devDependencies": {
-  "typescript": "^4.5.0",
-  "@types/react": "^17.0.0",
-  "@types/node": "^16.0.0"
+{
+  "name": "prox",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0",
+    "@types/react": "^17.0.0",
+    "@types/node": "^16.0.0"
+  }
 }
