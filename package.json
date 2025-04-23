@@ -2,7 +2,7 @@
   "name": "prox",
   "version": "1.0.0",
   "dependencies": {
-    "next": "^13.5.11",  // Next.jsのバージョンを追加
+    "next": "^13.5.11",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
